@@ -1,0 +1,46 @@
+{
+  "StudenInfo": [
+    {
+      "id": 1,
+      "rollNo": "1010",
+      "name": "Lokesh",
+      "city": "Banglore",
+      "dept": "BBA.CA"
+    },
+    {
+      "id": 2,
+      "rollNo": 1002,
+      "name": "Vijat",
+      "city": "Coimbatore",
+      "dept": "B.COM"
+    },
+    {
+      "id": 3,
+      "rollNo": 1003,
+      "name": "Ramesh",
+      "city": "Ooty",
+      "dept": "VisCom"
+    },
+    {
+      "id": 4,
+      "rollNo": "1005",
+      "name": "Karthik",
+      "city": "ooty",
+      "dept": "BCom"
+    },
+    {
+      "id": 5,
+      "rollNo": "1004",
+      "name": "Geetha",
+      "city": "Paladam",
+      "dept": "EEE"
+    },
+    {
+      "id": 6,
+      "rollNo": "1006",
+      "name": "Priya",
+      "city": "banglore",
+      "dept": "business"
+    }
+  ]
+}
